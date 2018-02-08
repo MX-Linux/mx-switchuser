@@ -3,24 +3,24 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# mahmut özcan <mahmutozcan65@yahoo.com>, 2017-2018
+# samson <sambelet@yahoo.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: antix-development\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-29 10:37-0400\n"
-"PO-Revision-Date: 2018-01-22 00:04+0000\n"
-"Last-Translator: mahmut özcan <mahmutozcan65@yahoo.com>\n"
-"Language-Team: Turkish (http://www.transifex.com/anticapitalista/antix-development/language/tr/)\n"
+"PO-Revision-Date: 2018-01-28 23:31+0000\n"
+"Last-Translator: samson <sambelet@yahoo.com>\n"
+"Language-Team: Amharic (http://www.transifex.com/anticapitalista/antix-development/language/am/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: tr\n"
+"Language: am\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: mx-switchuser:7
 msgid "User Switching"
-msgstr "Kullanıcı Geçişi"
+msgstr "ተጠቃሚ መቀየሪያ"
 
 #: mx-switchuser:7
 msgid ""
@@ -29,8 +29,8 @@ msgid ""
 "To return to the original user, simply press Ctrl-Alt-F7. Go back again with Ctrl-Alt-F8.\n"
 "\n"
 "Do you want to switch to another user?"
-msgstr "Bu araç, geçerli oturumunuzu kapatmadan farklı bir kullanıcıya geçmenizi sağlar.\n\nÖzgün kullanıcıya dönmek için Ctrl-Alt-F7 tuşlarına basmanız yeterlidir. Ctrl-Alt-F8 ile tekrar geri dönün.\n\nDiğer kullanıcıya geçmek ister misiniz?"
+msgstr "ይህ መሳሪያ እርስዎን የሚጠቅመው የ ተለያዩ ተጠቃሚዎች ለ መቀያየር ነው: የ አሁኑን ክፍለ ጊዜ ሳይዘሁ:\n\nወደ ዋናው ተጠቃሚ ለ መመለስ በ ቀላሉ ይጫኑ Ctrl-Alt-F7. እና እንደገና ይሂደ ወደ በ Ctrl-Alt-F8.\n\nእርስዎ አሁን ወደ ሌላ ተጠቃሚ መቀየር ይፈልጋሉ?"
 
 #: mx-switchuser:11
 msgid "Do not show this screen again"
-msgstr "Bu ekranı tekrar gösterme"
+msgstr "ይህን መመልከቻ በድጋሚ አታሳየኝ"

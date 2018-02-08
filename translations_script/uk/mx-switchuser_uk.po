@@ -3,27 +3,23 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Eugen Brodski <eugen.brodski@web.de>, 2015
-# Jerry Bond, 2014
-# q a, 2016
-# WPSchulz <fly@wp-schulz.de>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: antix-development\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-29 10:37-0400\n"
-"PO-Revision-Date: 2017-09-20 04:10+0000\n"
-"Last-Translator: q a\n"
-"Language-Team: German (http://www.transifex.com/anticapitalista/antix-development/language/de/)\n"
+"PO-Revision-Date: 2017-08-03 10:45+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/anticapitalista/antix-development/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: mx-switchuser:7
 msgid "User Switching"
-msgstr "Benutzer(-namen) wechseln"
+msgstr ""
 
 #: mx-switchuser:7
 msgid ""
@@ -32,8 +28,8 @@ msgid ""
 "To return to the original user, simply press Ctrl-Alt-F7. Go back again with Ctrl-Alt-F8.\n"
 "\n"
 "Do you want to switch to another user?"
-msgstr "Dieses Werkzeug ermöglicht es, den Benutzer zu wechseln ohne sich dafür auszuloggen.\n\nDrücken Sie Ctrl-Alt-F7, um zum ersten Benutzer zurückzukehren.  \nCtrl-Alt-F8 bringt Sie wieder zum zweiten. \n\nWollen Sie den Benutzer wechseln?"
+msgstr ""
 
 #: mx-switchuser:11
 msgid "Do not show this screen again"
-msgstr "Diesen Bildschirm nicht wieder anzeigen"
+msgstr ""
