@@ -11,21 +11,21 @@ override_dh_auto_clean:
 
 override_dh_install:
 	mkdir -p translations_script/build
-	msgfmt translations_script/ca/mx-switchuser_ca.po -o translations_script/build/mx-switchuser_ca.mo
-	msgfmt translations_script/cs/mx-switchuser_cs.po -o translations_script/build/mx-switchuser_cs.mo
-	msgfmt translations_script/de/mx-switchuser_de.po -o translations_script/build/mx-switchuser_de.mo
-	msgfmt translations_script/el/mx-switchuser_el.po -o translations_script/build/mx-switchuser_el.mo
-	msgfmt translations_script/es/mx-switchuser_es.po -o translations_script/build/mx-switchuser_es.mo
-	msgfmt translations_script/fr/mx-switchuser_fr.po -o translations_script/build/mx-switchuser_fr.mo
-	msgfmt translations_script/it/mx-switchuser_it.po -o translations_script/build/mx-switchuser_it.mo
-	msgfmt translations_script/ja/mx-switchuser_ja.po -o translations_script/build/mx-switchuser_ja.mo
-	msgfmt translations_script/lt/mx-switchuser_lt.po -o translations_script/build/mx-switchuser_lt.mo
-	msgfmt translations_script/nl/mx-switchuser_nl.po -o translations_script/build/mx-switchuser_nl.mo
-	msgfmt translations_script/pl/mx-switchuser_pl.po -o translations_script/build/mx-switchuser_pl.mo
-	msgfmt translations_script/pt/mx-switchuser_pt.po -o translations_script/build/mx-switchuser_pt.mo
-	msgfmt translations_script/ru/mx-switchuser_ru.po -o translations_script/build/mx-switchuser_ru.mo
-	msgfmt translations_script/sk/mx-switchuser_sk.po -o translations_script/build/mx-switchuser_sk.mo
-	msgfmt translations_script/sv/mx-switchuser_sv.po -o translations_script/build/mx-switchuser_sv.mo
+	msgfmt translations_script/po/mx-switchuser_ca.po -o translations_script/build/mx-switchuser_ca.mo
+	msgfmt translations_script/po/mx-switchuser_cs.po -o translations_script/build/mx-switchuser_cs.mo
+	msgfmt translations_script/po/mx-switchuser_de.po -o translations_script/build/mx-switchuser_de.mo
+	msgfmt translations_script/po/mx-switchuser_el.po -o translations_script/build/mx-switchuser_el.mo
+	msgfmt translations_script/po/mx-switchuser_es.po -o translations_script/build/mx-switchuser_es.mo
+	msgfmt translations_script/po/mx-switchuser_fr.po -o translations_script/build/mx-switchuser_fr.mo
+	msgfmt translations_script/po/mx-switchuser_it.po -o translations_script/build/mx-switchuser_it.mo
+	msgfmt translations_script/po/mx-switchuser_ja.po -o translations_script/build/mx-switchuser_ja.mo
+	msgfmt translations_script/po/mx-switchuser_lt.po -o translations_script/build/mx-switchuser_lt.mo
+	msgfmt translations_script/po/mx-switchuser_nl.po -o translations_script/build/mx-switchuser_nl.mo
+	msgfmt translations_script/po/mx-switchuser_pl.po -o translations_script/build/mx-switchuser_pl.mo
+	msgfmt translations_script/po/mx-switchuser_pt.po -o translations_script/build/mx-switchuser_pt.mo
+	msgfmt translations_script/po/mx-switchuser_ru.po -o translations_script/build/mx-switchuser_ru.mo
+	msgfmt translations_script/po/mx-switchuser_sk.po -o translations_script/build/mx-switchuser_sk.mo
+	msgfmt translations_script/po/mx-switchuser_sv.po -o translations_script/build/mx-switchuser_sv.mo
 
 
 	mkdir -p translations_script/build/ca
