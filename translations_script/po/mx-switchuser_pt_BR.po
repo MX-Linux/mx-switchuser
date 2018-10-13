@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# cmenemrs <cmenemrs@gmail.com>, 2018
 # Danylo Sa <kaiserblast@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: antix-development\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-29 10:37-0400\n"
-"PO-Revision-Date: 2018-05-06 14:43+0000\n"
-"Last-Translator: Danylo Sa <kaiserblast@gmail.com>\n"
+"PO-Revision-Date: 2018-06-18 23:40+0000\n"
+"Last-Translator: cmenemrs <cmenemrs@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/anticapitalista/antix-development/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,8 +30,8 @@ msgid ""
 "To return to the original user, simply press Ctrl-Alt-F7. Go back again with Ctrl-Alt-F8.\n"
 "\n"
 "Do you want to switch to another user?"
-msgstr ""
+msgstr "Essa ferramenta permite alternar para um usuário diferente sem encerrar sua sessão atual.\n\nPara retornar ao usuário original, basta pressionar Ctrl-Alt-F7. Volte novamente com Ctrl-Alt-F8.\n\nVocê quer mudar para outro usuário?"
 
 #: mx-switchuser:11
 msgid "Do not show this screen again"
-msgstr ""
+msgstr "Não mostre esta tela novamente"
