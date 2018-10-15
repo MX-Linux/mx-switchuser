@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sun, 14 Oct 2018 20:15:38 -0400
+Source: mx-switchuser
+Binary: mx-switchuser
+Architecture: source all
+Version: 18.10
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser <stevep@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-switchuser - Tools to switch users without logging out.
+Changes:
+ mx-switchuser (18.10) mx; urgency=medium
+ .
+   * Updated translations
+Checksums-Sha1:
+ 04e6f36159862e19a9f1a79c9239134c45b82607 1211 mx-switchuser_18.10.dsc
+ 233b1b2dcd6b5afd367eb77138bedc877697bfa1 12052 mx-switchuser_18.10.tar.xz
+ a5a0026c31abc731c8ca28ebe392f4df9f254452 7926 mx-switchuser_18.10_all.deb
+ 8a319652bd0ae9639dbd1dcac20811d65116903c 5505 mx-switchuser_18.10_amd64.buildinfo
+Checksums-Sha256:
+ 5bb9a90809fd266f08806ec900a42ee5063ada8606f55212adf7148039d9686e 1211 mx-switchuser_18.10.dsc
+ eb6f44138506ab22760f8da5e0f91ff74738d4da688548778c22474ce68be92a 12052 mx-switchuser_18.10.tar.xz
+ bfaaa269c1e2232e8caf8e900fa285438f204f8835fcb5b3ee97ff434ab89dd5 7926 mx-switchuser_18.10_all.deb
+ 92b6fdf6ecd0f64280e8758b5b0da1e198893eae8b8718fa7c098c91b88b3e00 5505 mx-switchuser_18.10_amd64.buildinfo
+Files:
+ dea2770dd5e33d7821c3270b2aa9c88c 1211 system required mx-switchuser_18.10.dsc
+ 1f6bb1206973164775dca6cb5ec2606f 12052 system required mx-switchuser_18.10.tar.xz
+ f598e6d66c52180b1f48b17649489587 7926 system required mx-switchuser_18.10_all.deb
+ aff9fb51d786d6717b224444ff82294b 5505 system required mx-switchuser_18.10_amd64.buildinfo
+Original-Maintainer: anticapitalista <antiX@operamail.com>
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlvD3ScTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCF5B/4+0VvDejNi1wi1FZ/lhhK+uQL1Tp0n
+vrYaclEnyCrgz7gw3c3w6YFUMeVCGfKJ/hY9osA6w7uFCsLmaXCJMae/hGFqir9G
+Rqc/X+Q1TjpS7PwPsH0Dv5CcKg3Z9b3ciW6jYgRlwPVoKRGMecJezaQ2YBmY7rue
+BA1755ogAf6COMKJ1l29CPSe3sZziUsMts4ZXhkTtLhr3FEHzimuAmj3rspQ6jXc
+bHaVOOa9URd8De0xzzVOWEc8WOqDys3Wzp5mJyWq98Pdgy6RckBUKTC9k+NbJPtp
+1hmgzHSvgW3Q04Im6dd8Hy7bD4lDoFtlZnuspHXvQJCfzKUR2245P5Lm
+=e1Lh
+-----END PGP SIGNATURE-----

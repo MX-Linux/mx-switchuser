@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TEXTDOMAINDIR=/usr/share/locale 
+TEXTDOMAINDIR=/usr/share/locale
 TEXTDOMAIN=mx-switchuser
 
 if [ ! -e ~/.switchuser ] ; then
@@ -13,7 +13,7 @@ Do you want to switch to another user?" --field=$"Do not show this screen again"
     if [ $CHECKBOX == "TRUE|" ] ; then
       touch ~/.switchuser
     fi
-  else 
+  else
     exit 1
   fi
 fi
