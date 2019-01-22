@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Kristian B <mopardud@hotmail.com>, 2015
+# xmaus <49bolgen@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-29 10:37-0400\n"
+"PO-Revision-Date: 2018-12-03 08:21+0000\n"
+"Last-Translator: xmaus <49bolgen@gmail.com>\n"
+"Language-Team: Norwegian Bokmål (http://www.transifex.com/anticapitalista/antix-development/language/nb/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: mx-switchuser:7
+msgid "User Switching"
+msgstr "Bytt bruker"
+
+#: mx-switchuser:7
+msgid ""
+"This tool allows you to switch to a different user without closing down your current session.\n"
+"\n"
+"To return to the original user, simply press Ctrl-Alt-F7. Go back again with Ctrl-Alt-F8.\n"
+"\n"
+"Do you want to switch to another user?"
+msgstr ""
+
+#: mx-switchuser:11
+msgid "Do not show this screen again"
+msgstr "Ikke vis dette igjen"

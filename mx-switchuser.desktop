@@ -1,9 +1,9 @@
 [Desktop Entry]
 Name=MX Switch User
 Name[am]=MX ተጠቃሚ መቀየሪያ
-Name[ca]=MX Switch User 
+Name[ca]=MX Switch User
 Name[cs]=Přepnout uživatele
-Name[da]=MX Switch User
+Name[da]=MX Skift bruger
 Name[de]=MX Benutzerwechsel
 Name[el]=Αλλαγή χρήστη του MX
 Name[es]=MX Cambiar Usuario
@@ -31,10 +31,10 @@ Name[uk]=MX Switch User
 Name[zh_TW]=MX 切換使用者
 Comment=Change users without logging out
 Comment[am]=ተጠቃሚ መቀየሪያ ሳይወጡ
-Comment[ca]=Canvia d'usuari sense sortir del Sistema 
-Comment[cs]=Přepnout uživatele 
-Comment[da]=Change users without logging out
-Comment[de]=Ohne ausloggen den Benutzer wechseln
+Comment[ca]=Canvia d'usuari sense sortir del Sistema
+Comment[cs]=Přepnout uživatele
+Comment[da]=Skift brugere uden at logge ud
+Comment[de]=Ohne abmelden den Benutzer wechseln
 Comment[el]=Αλλαγή χρηστών χωρίς αποσύνδεση
 Comment[es]=Cambiar Usuario sin finalizar la sesión
 Comment[fi]=Change users without logging out
