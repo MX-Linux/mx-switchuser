@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# Arnold Marko <arnold.marko@gmail.com>, 2019
 # Mario <al.manja@gmx.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: antix-development\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-29 10:37-0400\n"
-"PO-Revision-Date: 2019-02-12 12:24+0000\n"
-"Last-Translator: Mario <al.manja@gmx.com>\n"
+"PO-Revision-Date: 2019-08-09 08:18+0000\n"
+"Last-Translator: Arnold Marko <arnold.marko@gmail.com>\n"
 "Language-Team: Slovenian (http://www.transifex.com/anticapitalista/antix-development/language/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,8 +30,8 @@ msgid ""
 "To return to the original user, simply press Ctrl-Alt-F7. Go back again with Ctrl-Alt-F8.\n"
 "\n"
 "Do you want to switch to another user?"
-msgstr ""
+msgstr "To orodje omogoča prehod na drugega uporabnika, ne da bi zaprli trenutno sejo.\n\nZa vrnitev na izhodiščnega uporabnika pritisnite Ctrl-Alt-F7. Nazaj se vrnete z Ctrl-Alt-F8.\n\nAli bi radi prešli na drugega uporabnika?"
 
 #: mx-switchuser:11
 msgid "Do not show this screen again"
-msgstr ""
+msgstr "Tega zaslona ne prikaži več"
