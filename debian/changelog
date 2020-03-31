@@ -1,3 +1,9 @@
+mx-switchuser (20.01) mx; urgency=medium
+
+  * update control file 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 30 Mar 2020 22:55:02 -0400
+
 mx-switchuser (19.04) mx; urgency=medium
 
   * update translations 

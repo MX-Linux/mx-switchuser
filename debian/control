@@ -1,8 +1,7 @@
 Source: mx-switchuser
 Section: system
 Priority: required
-Maintainer: Steven Pusser <stevep@mxlinux.org>
-XSBC-Original-Maintainer: anticapitalista <antiX@operamail.com>
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
 Build-Depends: debhelper (>= 7.0.50~), gettext
 Standards-Version: 3.9.4
 Homepage: http://mepis.org
