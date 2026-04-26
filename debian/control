@@ -2,8 +2,8 @@ Source: mx-switchuser
 Section: system
 Priority: required
 Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
-Build-Depends: debhelper (>= 7.0.50~), gettext
-Standards-Version: 3.9.4
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.5.1
 Homepage: http://mepis.org
 
 Package: mx-switchuser
